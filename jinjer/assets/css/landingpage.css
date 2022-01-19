@@ -1,0 +1,86 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+img{max-width: 100%;}
+.promise-section{
+    padding:5% 0;
+    background:#daac95;
+}
+ .section-heading h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#000;
+    font-weight: 700;
+    font-size:50px;
+}
+.section-desc p,p{
+font-size: 16px;
+color:#000;
+}
+.promise-row{
+    max-width: 1000px;
+    margin: auto;
+    align-items: flex-end;
+    display: flex;
+    margin-top: 30px;
+}
+.promise-row img{
+    max-width: 120px;
+    margin-bottom:20px
+}
+.promise-row p{
+    font-weight: 600;
+
+}
+
+
+
+.ingredients-section{
+    padding:5% 0;
+    background:#fff;
+}
+.ingredients-section h5{
+    color:#000;
+    font-weight: 600;
+    font-size: 24px;
+}
+.ingredients-section .top-content p{
+    margin:30px auto 10px;
+    line-height: 145%;
+}
+.ingredients-section .section-heading h3{
+    margin:10px 0;
+    z-index: 2;
+    position: relative;
+}
+.ingredients-section .section-heading h3 span{
+    background: #fff;
+    padding:0 20px;
+}
+.ingredients-section hr{
+  
+       
+        border: none;
+        border-top: 2px solid #000;
+        position: absolute;
+        width: 100%;
+        top: 40px;
+        margin:0px;
+        z-index: 1;
+    
+}
+.ingredients-row{padding:30px 0;max-width: 900px;
+    margin: auto;}
+.ingredients-row .section-heading {margin-bottom: 40px;}
+.ingredients-row img{max-width: 200px; margin: auto;}
+
+.border-left-right{border-left:1px solid #000; border-right:1px solid #000;}
+
+.ingredients-row .content-box .title-wrpr{padding:0 20px;}
+.ingredients-row .content-box .title-wrpr h3{background:#000;font-size: 24px;padding:20px;color:#fff; font-weight: 600;}
+.ingredients-row .content-box{background: linear-gradient(0deg, rgba(239,224,216,1) 90%, rgba(255,255,255,0) 90%);}
+.ingredients-row .content-box p{padding:20px 0;font-size: 14px;color:#000;}
+
+
+
+
